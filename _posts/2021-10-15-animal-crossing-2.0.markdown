@@ -4,7 +4,6 @@ title:  "Animal Crossing 2.0"
 date:   2021-10-15 00:00:00 +1000
 categories: blog
 tags: acnh, nintendo
-title-image: 2021-10-15-animal-crossing.png
 ---
 
 My guess? The just announced 2.0 update is full of content that wasn't ready for the initial release date,
