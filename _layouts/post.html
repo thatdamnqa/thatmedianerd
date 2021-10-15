@@ -1,0 +1,16 @@
+---
+layout: default
+---
+<article itemscope itemtype="http://schema.org/BlogPosting">
+     <h1>
+         {%- if page.title-image -%}
+            <img src="/assets/post-titles/{{page.title-image}}" alt="{{page.title}}" />
+         {%- else -%}
+            {{ page.title | escape }}
+         {%- endif -%}
+     </h1>
+    {{ content }}
+
+    {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
+    <div class="post-meta"><p>{{ page.date | date: date_format }} &middot; <a href="{{ page.url | relative_url }}">Permalink</a></p></div>
+</article>
