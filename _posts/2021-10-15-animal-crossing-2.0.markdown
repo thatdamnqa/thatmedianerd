@@ -13,6 +13,6 @@ get to that point because the team was
 
 Oh, and some extra quality of life fixes, as well.
 
-![Screenshot of the Handwashing settings](/assets/post-images/acnh/pier-confused.png)
+![ACNH screenshot: stood on the Pier, looking conufused. Caption saying "Why?"](/assets/post-images/acnh/pier-confused.png)
 
 That explains the almost featureless Pier and Harv's Island, then.
