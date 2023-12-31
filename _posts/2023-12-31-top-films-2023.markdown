@@ -6,28 +6,28 @@ categories: blog
 tags: movies
 ---
 
-# 1. Barbie
+## 1. Barbie
 
 All. The. Pink.
 
-# 2. Wonka
+## 2. Wonka
 
 Don't let the trailor cloud your judgement on this one, and try not to overthink how this fits in with the wider Chocolate Factory story. It's
 still a fun film
 
-# 3. Elemental
+## 3. Elemental
 
 Classic Pixar storytelling
 
-# 4. M3GAN
+## 4. M3GAN
 
 A fine performance from Amie Donald as M3gan
 
-# 5. STILL: A Michael J Fox Movie
+## 5. STILL: A Michael J Fox Movie
 
 A honest account from a man trying not to let Parkinson's slow him down
 
-# Honorable Mentions
+## Honorable Mentions
 
 1. Are you there God? It's Me, Margaret
 2. Missing
